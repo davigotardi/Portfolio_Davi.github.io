@@ -4686,18 +4686,7 @@ input, select, textarea {
 			visibility: visible;
 		}
 
-		.circle-image-container {
-			  width: 200px;
-			  height: 200px;
-			  border-radius: 50%;
-			}
-			
-			.circle-image-container img {
-			  width: 100%;
-			  height: 100%;
-			  object-fit: cover;
-			  object-position: center;
-			}
+		
 
 
 	}
